@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Modelo 2 Main/1.0.0": {
+        "runtime": {
+          "Modelo 2 Main.dll": {}
+        }
+      },
+      "Modelo 2/1.0.0": {
+        "runtime": {
+          "Modelo 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modelo 2 Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Modelo 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

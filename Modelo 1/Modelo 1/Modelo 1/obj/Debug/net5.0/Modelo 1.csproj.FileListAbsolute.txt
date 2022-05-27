@@ -1,0 +1,12 @@
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 1\Modelo 1\Modelo 1\bin\Debug\net5.0\Modelo 1.deps.json
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 1\Modelo 1\Modelo 1\bin\Debug\net5.0\Modelo 1.dll
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 1\Modelo 1\Modelo 1\bin\Debug\net5.0\ref\Modelo 1.dll
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 1\Modelo 1\Modelo 1\bin\Debug\net5.0\Modelo 1.pdb
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 1\Modelo 1\Modelo 1\obj\Debug\net5.0\Modelo 1.csproj.AssemblyReference.cache
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 1\Modelo 1\Modelo 1\obj\Debug\net5.0\Modelo 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 1\Modelo 1\Modelo 1\obj\Debug\net5.0\Modelo 1.AssemblyInfoInputs.cache
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 1\Modelo 1\Modelo 1\obj\Debug\net5.0\Modelo 1.AssemblyInfo.cs
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 1\Modelo 1\Modelo 1\obj\Debug\net5.0\Modelo 1.csproj.CoreCompileInputs.cache
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 1\Modelo 1\Modelo 1\obj\Debug\net5.0\Modelo 1.dll
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 1\Modelo 1\Modelo 1\obj\Debug\net5.0\ref\Modelo 1.dll
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 1\Modelo 1\Modelo 1\obj\Debug\net5.0\Modelo 1.pdb

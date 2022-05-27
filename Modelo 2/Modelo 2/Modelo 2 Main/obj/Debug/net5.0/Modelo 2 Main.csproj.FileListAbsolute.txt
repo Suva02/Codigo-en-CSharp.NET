@@ -1,0 +1,19 @@
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 2\Modelo 2\Modelo 2 Main\bin\Debug\net5.0\Modelo 2 Main.exe
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 2\Modelo 2\Modelo 2 Main\bin\Debug\net5.0\Modelo 2 Main.deps.json
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 2\Modelo 2\Modelo 2 Main\bin\Debug\net5.0\Modelo 2 Main.runtimeconfig.json
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 2\Modelo 2\Modelo 2 Main\bin\Debug\net5.0\Modelo 2 Main.runtimeconfig.dev.json
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 2\Modelo 2\Modelo 2 Main\bin\Debug\net5.0\Modelo 2 Main.dll
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 2\Modelo 2\Modelo 2 Main\bin\Debug\net5.0\ref\Modelo 2 Main.dll
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 2\Modelo 2\Modelo 2 Main\bin\Debug\net5.0\Modelo 2 Main.pdb
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 2\Modelo 2\Modelo 2 Main\bin\Debug\net5.0\Modelo 2.dll
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 2\Modelo 2\Modelo 2 Main\bin\Debug\net5.0\Modelo 2.pdb
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 2\Modelo 2\Modelo 2 Main\obj\Debug\net5.0\Modelo 2 Main.csproj.AssemblyReference.cache
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 2\Modelo 2\Modelo 2 Main\obj\Debug\net5.0\Modelo 2 Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 2\Modelo 2\Modelo 2 Main\obj\Debug\net5.0\Modelo 2 Main.AssemblyInfoInputs.cache
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 2\Modelo 2\Modelo 2 Main\obj\Debug\net5.0\Modelo 2 Main.AssemblyInfo.cs
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 2\Modelo 2\Modelo 2 Main\obj\Debug\net5.0\Modelo 2 Main.csproj.CoreCompileInputs.cache
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 2\Modelo 2\Modelo 2 Main\obj\Debug\net5.0\Modelo 2 Main.csproj.CopyComplete
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 2\Modelo 2\Modelo 2 Main\obj\Debug\net5.0\Modelo 2 Main.dll
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 2\Modelo 2\Modelo 2 Main\obj\Debug\net5.0\ref\Modelo 2 Main.dll
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 2\Modelo 2\Modelo 2 Main\obj\Debug\net5.0\Modelo 2 Main.pdb
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 2\Modelo 2\Modelo 2 Main\obj\Debug\net5.0\Modelo 2 Main.genruntimeconfig.cache

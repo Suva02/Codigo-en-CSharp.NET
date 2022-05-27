@@ -1,0 +1,21 @@
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\bin\Debug\net5.0-windows\Modelo 3 FORM.exe
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\bin\Debug\net5.0-windows\Modelo 3 FORM.deps.json
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\bin\Debug\net5.0-windows\Modelo 3 FORM.runtimeconfig.json
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\bin\Debug\net5.0-windows\Modelo 3 FORM.runtimeconfig.dev.json
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\bin\Debug\net5.0-windows\Modelo 3 FORM.dll
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\bin\Debug\net5.0-windows\ref\Modelo 3 FORM.dll
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\bin\Debug\net5.0-windows\Modelo 3 FORM.pdb
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\bin\Debug\net5.0-windows\Modelo 3.dll
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\bin\Debug\net5.0-windows\Modelo 3.pdb
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\obj\Debug\net5.0-windows\Modelo 3 FORM.csproj.AssemblyReference.cache
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\obj\Debug\net5.0-windows\Modelo_3_FORM.frmPrincipal.resources
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\obj\Debug\net5.0-windows\Modelo 3 FORM.csproj.GenerateResource.cache
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\obj\Debug\net5.0-windows\Modelo 3 FORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\obj\Debug\net5.0-windows\Modelo 3 FORM.AssemblyInfoInputs.cache
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\obj\Debug\net5.0-windows\Modelo 3 FORM.AssemblyInfo.cs
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\obj\Debug\net5.0-windows\Modelo 3 FORM.csproj.CoreCompileInputs.cache
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\obj\Debug\net5.0-windows\Modelo 3 FORM.csproj.CopyComplete
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\obj\Debug\net5.0-windows\Modelo 3 FORM.dll
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\obj\Debug\net5.0-windows\ref\Modelo 3 FORM.dll
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\obj\Debug\net5.0-windows\Modelo 3 FORM.pdb
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 3\Modelo 3\Modelo 3 FORM\obj\Debug\net5.0-windows\Modelo 3 FORM.genruntimeconfig.cache

@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Modelo 3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Modelo 3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Modelo 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modelo 3/1.0.0": {
+      "type": "project",
+      "path": "../Modelo 3/Modelo 3.csproj",
+      "msbuildProject": "../Modelo 3/Modelo 3.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Modelo 3 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Neri y Valen\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Neri y Valen\\Desktop\\MODELO DE PARCIALES\\Modelo 3\\Modelo 3\\Modelo 3 FORM\\Modelo 3 FORM.csproj",
+      "projectName": "Modelo 3 FORM",
+      "projectPath": "C:\\Users\\Neri y Valen\\Desktop\\MODELO DE PARCIALES\\Modelo 3\\Modelo 3\\Modelo 3 FORM\\Modelo 3 FORM.csproj",
+      "packagesPath": "C:\\Users\\Neri y Valen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Neri y Valen\\Desktop\\MODELO DE PARCIALES\\Modelo 3\\Modelo 3\\Modelo 3 FORM\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Neri y Valen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Neri y Valen\\Desktop\\MODELO DE PARCIALES\\Modelo 3\\Modelo 3\\Modelo 3\\Modelo 3.csproj": {
+              "projectPath": "C:\\Users\\Neri y Valen\\Desktop\\MODELO DE PARCIALES\\Modelo 3\\Modelo 3\\Modelo 3\\Modelo 3.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
