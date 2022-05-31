@@ -1,0 +1,21 @@
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\bin\Debug\net5.0-windows\frmPrincipal.exe
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\bin\Debug\net5.0-windows\frmPrincipal.deps.json
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\bin\Debug\net5.0-windows\frmPrincipal.runtimeconfig.json
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\bin\Debug\net5.0-windows\frmPrincipal.runtimeconfig.dev.json
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\bin\Debug\net5.0-windows\frmPrincipal.dll
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\bin\Debug\net5.0-windows\ref\frmPrincipal.dll
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\bin\Debug\net5.0-windows\frmPrincipal.pdb
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\bin\Debug\net5.0-windows\Modelo 4.dll
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\bin\Debug\net5.0-windows\Modelo 4.pdb
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\obj\Debug\net5.0-windows\frmPrincipal.csproj.AssemblyReference.cache
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\obj\Debug\net5.0-windows\frmPrincipal.frmPrincipal.resources
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\obj\Debug\net5.0-windows\frmPrincipal.csproj.GenerateResource.cache
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\obj\Debug\net5.0-windows\frmPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\obj\Debug\net5.0-windows\frmPrincipal.AssemblyInfoInputs.cache
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\obj\Debug\net5.0-windows\frmPrincipal.AssemblyInfo.cs
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\obj\Debug\net5.0-windows\frmPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\obj\Debug\net5.0-windows\frmPrincipal.csproj.CopyComplete
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\obj\Debug\net5.0-windows\frmPrincipal.dll
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\obj\Debug\net5.0-windows\ref\frmPrincipal.dll
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\obj\Debug\net5.0-windows\frmPrincipal.pdb
+C:\Users\Neri y Valen\Desktop\MODELO DE PARCIALES\Modelo 4\Modelo 4\frmPrincipal\obj\Debug\net5.0-windows\frmPrincipal.genruntimeconfig.cache
